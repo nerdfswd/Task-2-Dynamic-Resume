@@ -1,0 +1,85 @@
+{
+	"details":{
+		"name":"SABIYA TABASSUM",
+		"image":"profile.jpg",
+		"role" : "Web Designer",
+		"email":"s@gmail.com",
+		"number":"+91-1234567890",
+		"address":"Hyderabad"
+	},
+	"careerobjective":{
+		"info":"To become software developer"
+	},
+	"educationalqualification":[
+	
+
+		{
+   
+			"institute":"VRS Engineering college",
+			"degree":"B.tech",
+			"passoutyear":"2020",
+			"percentage":"87%"
+		},
+		{
+			"institute":"Sri Chaitanya college",
+			"degree":"Intermediate",
+			"passoutyear":"2014",
+			"percentage":"98%"
+		},
+		{
+			"institute":"SRK school",
+			"degree":"SSC",
+			"passoutyear":"2012",
+			"percentage":"98%"
+		}
+
+	],
+
+	"techinicalskills":[
+		{
+		"title":"Programming Langauges:",
+		"info":["c,c++,java,python,R"]
+	},
+		{
+		"title":"Databases:",
+		"info":["oracle,sql,mysql,TinyDB,mongoDB"]
+	},
+		{
+		"title":"Operating Systems:",
+		"info":["windows,linux,ubuntu,Dos"]
+	}
+
+	],
+
+	"achievements":[
+		{
+		"info":["Participated and won 2nd prize in Paper Presentation on “DIGITAL TWINS” at S. R. Institute of Technology"]
+	},
+		{
+		"info":["Participated in Poster Presentation on “DIGITAL TWINS” at U. R. College of Engineering and Technology"]
+	},
+		{
+		"info":["Participated in Technical quiz at S. R. Institute of Technology"]
+	},
+	   {
+		"info":["Felicitated with Gold Medal for becoming school topper in Tenth Standard"]
+	} 
+
+	],
+
+	"hobbies":[
+		{
+		"info":["Reading Novels"]
+	},
+       {
+		"info":["Web Surfing"]
+	},
+	   {
+		"info":["Painting"]
+	},
+	  {
+		"info":["Listening to music"]
+	}
+		
+	]
+}
